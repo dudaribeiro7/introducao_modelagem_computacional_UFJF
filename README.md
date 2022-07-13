@@ -1,2 +1,2 @@
 # Introdução à Modelagem Computacional UFJF
-MAC024 - Trabalho 1
+Repositório com os trabalhos da disciplina MAC024 - Introdução à Modelagem Computacional da UFJF no semestre 2022.1
